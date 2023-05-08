@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=300&section=header&text=🧸️Hyemi%20Lee️🧸&fontSize=90&fontColor=cd5c5c&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=300&section=header&text=Hyemi%20Lee️&fontSize=90&fontColor=cd5c5c&animation=fadeIn)
 
 
   <h2>
