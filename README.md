@@ -4,17 +4,15 @@
 > 
   사용자 친화적인 웹 서비스를 구상하고 개발하며 즐거움을 느끼는 프론트엔드 개발자입니다👩🏻‍💻
 
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - **Nineright Frontend Engineer Intern** | 2023.06.22 ~ 2023.08.31
+  - **Kyunghee University Computer Engineering** | 2021.03 ~ now
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
    ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
    ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-  - **Nineright Frontend Engineer Intern** | 2023.06.22 ~ 2023.08.31
-  - **Kyunghee University Computer Engineering** | 2021.03 ~ now
-
-
     
   ## Experiences
   - Google Developer Groups on Campus (KHU) 1st Frontend member | 2024.09 ~ now
