@@ -1,41 +1,34 @@
-<div align="center">
-<h1>
-  I'm Hyemi Lee</h1>
-   🦁 Kyunghee Univ. Computer Engineering 21 🦁
-  
-  
-  <h3>Frontend</h3>
-  <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <br> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=white"/>
-   
+
+  # 이혜미 HYEMI LEE 
+  > ### __*Where there’s a will, there’s a way*__ 뜻이 있는 곳에 길이 있다
+> 
+  사용자 친화적인 웹 서비스를 구상하고 개발하며 즐거움을 느끼는 프론트엔드 개발자입니다👩🏻‍💻
+
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+   ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+  - **Nineright Frontend Engineer Intern** | 2023.06.22 ~ 2023.08.31
+  - **Kyunghee University Computer Engineering** | 2021.03 ~ now
+
+
     
-  </p>
-
-
-
+  ## Experiences
+  - Google Developer Groups on Campus (KHU) 1st Frontend member | 2024.09 ~ now
+  - Design thinking 1st prize🏆 in the university of Saarland summer program | 2024.06 ~ 2024.07
+  ## Projects
+  - CIFARM - 공유 텃밭 중개 서비스 (경희대/아주대학교 주관 해커톤 KHUTHON 최우수상🏆) | 2024.05
+  - StudyWithMe - 스터디 모임 통합 관리 서비스 | 2024.04 ~ 2024.06
+  - ECLIPSE - 대학생의 진로 걱정 해결을 위한 서비스 | 2022.10 ~ 2022.11
+  - FOCUZ - 얼굴인식 기반 공부 집중 시간 측정 서비스 (경희대학교 소프트웨어융합대학 동아리대항전 대상🏆) | 2022.06 ~ 2022.08  
+  ## Blog
+   <a href="https://hyemmimi.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+  </a>
   
-
-<p>
-  
+  ## 
 ![hyemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemimi&show_icons=true&theme=dracula)
-![hyemimi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemimi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)(https://github.com/hyemimi)    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyemimi&count_bg=%237B8474&title_bg=%23D79A9A&icon=&icon_color=%23DB9292&title=hits&edge_flat=false)
-
-
-  </p>
-  
-  <h2>BLOG </h2>
-  
-  <p>
-    <a href="https://velog.io/@gkj8963">
-    <img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Velog&logoColor=white"/> 
-    </a>
-  </p>
-</div>
+![hyemimi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemimi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact) 
