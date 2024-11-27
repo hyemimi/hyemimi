@@ -7,12 +7,14 @@
   - **Nineright Frontend Engineer Intern** | 2023.06.22 ~ 2023.08.31
   - **Kyunghee University Computer Engineering** | 2021.03 ~ now
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-   ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-blue?&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?&logo=node.js&logoColor=white)
+   ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?&logo=styled-components&logoColor=white)
+   ![SCSS](https://img.shields.io/badge/SCSS-CC6699?&logo=sass&logoColor=white)
+   ![Electron](https://img.shields.io/badge/Electron-2B2E3A?&logo=electron&logoColor=9FEAF9)
     
   ## Experiences
   - Google Developer Groups on Campus (KHU) 1st Frontend member | 2024.09 ~ now
