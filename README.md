@@ -23,7 +23,9 @@
   - CIFARM - 공유 텃밭 중개 서비스 (경희대/아주대학교 주관 해커톤 KHUTHON 최우수상🏆) | 2024.05
   - StudyWithMe - 스터디 모임 통합 관리 서비스 | 2024.04 ~ 2024.06
   - ECLIPSE - 대학생의 진로 걱정 해결을 위한 서비스 | 2022.10 ~ 2022.11
-  - FOCUZ - 얼굴인식 기반 공부 집중 시간 측정 서비스 (경희대학교 소프트웨어융합대학 동아리대항전 대상🏆) | 2022.06 ~ 2022.08  
+  - FOCUZ - 얼굴인식 기반 공부 집중 시간 측정 서비스 (경희대학교 소프트웨어융합대학 동아리대항전 대상🏆) | 2022.06 ~ 2022.08
+## My Website
+  https://hyemi.site
   ## Blog
    <a href="https://hyemmimi.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
