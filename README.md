@@ -17,6 +17,7 @@
    ![Electron](https://img.shields.io/badge/Electron-2B2E3A?&logo=electron&logoColor=9FEAF9)
     
   ## Experiences
+  - kakaotech bootcamp in pangyo | 2025.01 ~ now
   - Google Developer Groups on Campus (KHU) 1st Frontend member | 2024.09 ~ now
   - Design thinking 1st prize🏆 in the university of Saarland summer program | 2024.06 ~ 2024.07
   ## Projects
