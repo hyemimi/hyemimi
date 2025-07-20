@@ -17,8 +17,9 @@
    ![Electron](https://img.shields.io/badge/Electron-2B2E3A?&logo=electron&logoColor=9FEAF9)
     
   ## Experiences
-  - kakaotech bootcamp in pangyo | 2025.01 ~ now
-  - Google Developer Groups on Campus (KHU) 1st Frontend member | 2024.09 ~ now
+  - Open Source Contribution Academy Mentee – Githru VSCode Extension | 2025.07 ~ now
+  - kakaotech bootcamp in pangyo | 2025.01 ~ 07
+  - Google Developer Groups on Campus (KHU) 1st, 2nd Frontend member | 2024.09 ~ 2025.06
   - Design thinking 1st prize🏆 in the university of Saarland summer program | 2024.06 ~ 2024.07
   ## Projects
   - CIFARM - 공유 텃밭 중개 서비스 (경희대/아주대학교 주관 해커톤 KHUTHON 최우수상🏆) | 2024.05
