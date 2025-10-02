@@ -4,6 +4,7 @@
 > 
   사용자 친화적인 웹 서비스를 구상하고 개발하며 즐거움을 느끼는 프론트엔드 개발자입니다👩🏻‍💻
 
+  - **Nuvilab Frontend Engineer Intern** | 2025.10 ~ now
   - **Nineright Frontend Engineer Intern** | 2023.06.22 ~ 2023.08.31
   - **Kyunghee University Computer Engineering** | 2021.03 ~ now
 
@@ -17,17 +18,14 @@
    ![Electron](https://img.shields.io/badge/Electron-2B2E3A?&logo=electron&logoColor=9FEAF9)
     
   ## Experiences
-  - Open Source Contribution Academy – Githru VSCode Extension | 2025.07 ~ now
-  - kakaotech bootcamp in pangyo | 2025.01 ~ 2025.07
+  - Open Source Contribution Academy – Githru VSCode Extension 리드멘티 | 2025.07 ~ now
+  - 카카오테크 부트캠프 (판교 풀스택 2기) | 2025.01 ~ 2025.07
   - Google Developer Groups on Campus (KHU) 1st, 2nd Frontend member | 2024.09 ~ 2025.06
-  - Design thinking 1st prize🏆 in the university of Saarland summer program | 2024.06 ~ 2024.07
-  ## Projects
-  - CIFARM - 공유 텃밭 중개 서비스 (경희대/아주대학교 주관 해커톤 KHUTHON 최우수상🏆) | 2024.05
-  - StudyWithMe - 스터디 모임 통합 관리 서비스 | 2024.04 ~ 2024.06
-  - ECLIPSE - 대학생의 진로 걱정 해결을 위한 서비스 | 2022.10 ~ 2022.11
-  - FOCUZ - 얼굴인식 기반 공부 집중 시간 측정 서비스 (경희대학교 소프트웨어융합대학 동아리대항전 대상🏆) | 2022.06 ~ 2022.08
-## My Website
-  https://hyemi.site
+  ## Awards
+  - 독일 자를란트 대학 캡스톤 디자인 1st prize 🏆 | 2024.06 ~ 2024.07
+  - 경희대/아주대학교 주관 해커톤 KHUTHON 최우수상 🏆 | 2024.05
+  - 경희대학교 IT 동아리 공모전 최우수상 🏆) | 2022.06 ~ 2022.08
+
   ## Blog
    <a href="https://hyemmimi.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
