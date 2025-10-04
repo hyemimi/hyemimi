@@ -3,8 +3,7 @@
   > ### __*Where there’s a will, there’s a way*__ 뜻이 있는 곳에 길이 있다
 > 
   사용자 친화적인 웹 서비스를 구상하고 개발하며 즐거움을 느끼는 프론트엔드 개발자입니다👩🏻‍💻
-
-  - **Nuvilab Frontend Engineer Intern** | 2025.10 ~ now
+  
   - **Nineright Frontend Engineer Intern** | 2023.06.22 ~ 2023.08.31
   - **Kyunghee University Computer Engineering** | 2021.03 ~ now
 
