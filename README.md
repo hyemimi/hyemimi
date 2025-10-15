@@ -3,7 +3,8 @@
   > ### __*Where there’s a will, there’s a way*__ 뜻이 있는 곳에 길이 있다
 > 
   사용자 친화적인 웹 서비스를 구상하고 개발하며 즐거움을 느끼는 프론트엔드 개발자입니다👩🏻‍💻
-  
+
+  - **Nuvilab Frontend Engineer Intern** | 2025.10.13 ~ now
   - **Nineright Frontend Engineer Intern** | 2023.06.22 ~ 2023.08.31
   - **Kyunghee University Computer Engineering** | 2021.03 ~ now
 
@@ -23,7 +24,7 @@
   ## Awards
   - 독일 자를란트 대학 캡스톤 디자인 1st prize 🏆 | 2024.06 ~ 2024.07
   - 경희대/아주대학교 주관 해커톤 KHUTHON 최우수상 🏆 | 2024.05
-  - 경희대학교 IT 동아리 공모전 최우수상 🏆) | 2022.06 ~ 2022.08
+  - 경희대학교 IT 동아리 공모전 최우수상 🏆 | 2022.06 ~ 2022.08
 
   ## Blog
    <a href="https://hyemmimi.tistory.com/">
