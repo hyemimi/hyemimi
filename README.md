@@ -18,10 +18,11 @@
    ![Electron](https://img.shields.io/badge/Electron-2B2E3A?&logo=electron&logoColor=9FEAF9)
     
   ## Experiences
-  - 오픈소스 컨트리뷰션 아카데미 – Githru VSCode Extension 리드멘티 | 2025.07 ~ now
+  - 오픈소스 컨트리뷰션 아카데미 [참여형] – Githru VSCode Extension 리드멘티 | 2025.07 ~ now
   - 카카오테크 부트캠프 (판교 풀스택 2기) | 2025.01 ~ 2025.07
   - GDGoC KHU 프론트엔드 1기, 2기 | 2024.09 ~ 2025.06
   ## Awards
+  - 오픈소스 컨트리뷰션 아카데미 [참여형] 우수상 🏆 | 2025.11.07
   - 독일 자를란트 대학 캡스톤 디자인 1st prize 🏆 | 2024.06 ~ 2024.07
   - 경희대/아주대학교 주관 해커톤 KHUTHON 최우수상 🏆 | 2024.05
   - 경희대학교 IT 동아리 공모전 최우수상 🏆 | 2022.06 ~ 2022.08
