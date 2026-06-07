@@ -32,7 +32,3 @@
    <a href="https://hyemmimi.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
-  
-  ## 
-![hyemimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemimi&show_icons=true&theme=dracula)
-![hyemimi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemimi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact) 
