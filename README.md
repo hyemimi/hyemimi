@@ -18,7 +18,8 @@
    ![Electron](https://img.shields.io/badge/Electron-2B2E3A?&logo=electron&logoColor=9FEAF9)
     
   ## Experiences
-  - 오픈소스 컨트리뷰션 아카데미 [체험형] - JavaScript 번역 멘티 | 2026.04 ~ now
+  - 오픈소스 컨트리뷰션 아카데미 [참여형] - Node.js 멘티 | 2026.07 ~ now
+  - 오픈소스 컨트리뷰션 아카데미 [체험형] - JavaScript 번역 멘티 | 2026.04 ~ 2026.06
   - 오픈소스 컨트리뷰션 아카데미 [참여형] – Githru VSCode Extension 리드멘티 | 2025.07 ~ 2026.11
   - 카카오테크 부트캠프 (판교 풀스택 2기) | 2025.01 ~ 2025.07
   - GDGoC KHU 프론트엔드 1기, 2기 | 2024.09 ~ 2025.06
